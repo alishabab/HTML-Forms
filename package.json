@@ -1,0 +1,23 @@
+{
+  "name": "html-forms",
+  "version": "1.0.0",
+  "description": "> This project consists of building an HTML document that matches the appearance of youtube video player page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alishabab/HTML-Forms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alishabab/HTML-Forms/issues"
+  },
+  "homepage": "https://github.com/alishabab/HTML-Forms#readme",
+  "devDependencies": {
+    "stylelint": "^13.2.0",
+    "stylelint-config-recommended": "^3.0.0"
+  }
+}
