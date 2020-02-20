@@ -1,0 +1,43 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+.topMost {
+  height: 80px;
+  width: 100%;
+  background-color: cyan;
+}
+
+.signIn {
+  width: 30%;
+  height: 80px;
+  background-color: maroon;
+  margin-left: 70%;
+}
+
+main {
+  width: 100%;
+  height: 600px;
+  background-color: lightpink;
+  margin-top: 60px;
+}
+
+.logoSection {
+  width: 40%;
+  height: 100px;
+  margin: auto;
+  background-color: green;
+}
+
+.mainSection {
+  width: 40%;
+  height: 500px;
+  margin: auto;
+  background-color: yellow;
+}
+
+footer {
+  height: 40px;
+  width: 100%;
+  background-color: teal;
+}
