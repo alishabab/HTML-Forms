@@ -9,7 +9,7 @@ a {
   color: #147ccb;
 }
 
-button{
+button {
   cursor: pointer;
 }
 
@@ -196,7 +196,7 @@ footer a:hover {
   margin-right: 5px;
 }
 
-.fa-unlock{
+.fa-unlock {
   margin-left: -30px;
   color: gray;
 }
