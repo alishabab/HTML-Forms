@@ -9,6 +9,10 @@ a {
   color: #147ccb;
 }
 
+button{
+  cursor: pointer;
+}
+
 .topMost {
   height: 80px;
   width: 100%;
@@ -186,4 +190,13 @@ footer a:hover {
 
 .invisible span {
   font-size: x-small;
+}
+
+.fas {
+  margin-right: 5px;
+}
+
+.fa-unlock{
+  margin-left: -30px;
+  color: gray;
 }
