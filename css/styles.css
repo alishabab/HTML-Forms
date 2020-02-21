@@ -37,7 +37,7 @@ form label {
 
 main {
   width: 100%;
-  height: 800px;
+  height: 730px;
   margin-top: 30px;
 }
 
@@ -65,7 +65,7 @@ main {
 
 .mainSection {
   width: 28%;
-  height: 600px;
+  height: 610px;
   margin: auto;
   border: 1px solid lightgray;
   background-color: #ffff;
@@ -114,7 +114,9 @@ form .firstChild,
 .thirdChild {
   font-size: small;
   padding-left: 50px;
+  color: gray;
 }
+
 form .secondChild {
   padding-left: 30px;
 }
@@ -150,10 +152,10 @@ h2 {
 .mainSection span {
   margin-left: 13%;
 }
+
 footer {
   height: 40px;
   width: 100%;
-  background-color: lightblue;
   text-align: center;
   font-size: small;
   color: gray;
@@ -165,7 +167,23 @@ footer a {
   font-size: medium;
 }
 
-.mainSection div {
+footer a:hover {
+  text-decoration: underline;
+}
+
+.mainSection form div {
   margin-left: 5%;
   margin-top: 30px;
+}
+
+.invisible {
+  background-color: #eceef1;
+  height: 37px;
+  width: 100%;
+  margin-top: 30px;
+  padding-top: 20px;
+}
+
+.invisible span {
+  font-size: x-small;
 }
