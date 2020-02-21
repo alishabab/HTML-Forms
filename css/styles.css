@@ -153,7 +153,16 @@ h2 {
 footer {
   height: 40px;
   width: 100%;
-  background-color: teal;
+  background-color: lightblue;
+  text-align: center;
+  font-size: small;
+  color: gray;
+}
+
+footer a {
+  color: gray;
+  margin-left: 10px;
+  font-size: medium;
 }
 
 .mainSection div {
